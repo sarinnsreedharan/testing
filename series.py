@@ -3,6 +3,7 @@ even=0
 odd=0
 even=1
 odd=1
+value=1
 if(n%2==0):
     even=1
     index=n/2
