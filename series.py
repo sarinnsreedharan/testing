@@ -1,6 +1,8 @@
 n=int(raw_input())
 even=0
 odd=0
+even=1
+odd=1
 if(n%2==0):
     even=1
     index=n/2
